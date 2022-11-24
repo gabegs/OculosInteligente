@@ -1,0 +1,7 @@
+Óculos Inteligente
+
+O projeto é um óculos anti-sono.
+A ideia é impedir que motoristas durmam ao volante.
+Há um sensor, no qual ao ser acionado toca um alto som e manda uma mensagem para o usuário no WhatsApp.
+Utilizamos Node-RED e MQTT.
+O código .ino é o que foi utilizado no Arduino.
